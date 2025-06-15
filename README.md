@@ -1,71 +1,50 @@
-# 👋 Salom! Men Muhammadjon Ahmedov
+<h1 align="center">Hi 👋, I'm Muhammadjon Ahmedov</h1>
 
-🎯 **Dasturchi | Full Stack Developer | O‘rganishga qiziqqan**  
-📌 Quyidagi texnologiyalar ustida ishlayman:
+<p align="center">
+  <a href="https://yourbloglink.com" target="_blank">blog</a> •
+  <a href="https://linkedin.com/in/yourname" target="_blank">linkedin</a> •
+  <a href="https://t.me/yourtelegram" target="_blank">telegram</a>
+</p>
 
----
+<br/>
 
-<table>
-  <tr>
-    <th>🛠️ Backend</th>
-    <th>🎨 Frontend</th>
-    <th>🗄️ Database</th>
-    <th>✨ Extra</th>
-  </tr>
-  <tr>
-    <td>
-
-- Node.js  
-- Express.js  
-- Firebase Functions  
-- ASP.NET Core  
-- REST API
-
-    </td>
-    <td>
-
-- HTML / CSS  
-- JavaScript  
-- React.js  
-- Next.js  
-- Tailwind CSS
-
-    </td>
-    <td>
-
-- MySQL  
-- MongoDB  
-- SQLite  
-- PostgreSQL  
-- Firebase Realtime DB
-
-    </td>
-    <td>
-
-- Git & GitHub  
-- Postman  
-- Docker  
-- Figma  
-- VS Code  
-
-    </td>
-  </tr>
+<table align="center">
+  <thead>
+    <tr>
+      <th>Language</th>
+      <th>Backend</th>
+      <th>Database</th>
+      <th>Extra</th>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" />
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
----
+<br/>
 
-## 📈 GitHub Statistikam
-
-![Muhammadjon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 📬 Aloqa uchun
-
-- 📧 Email: your.email@example.com  
-- 🌐 Portfolio: [yourwebsite.uz](https://yourwebsite.uz)  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-
----
-
-> "Har bir kod satri – bu yangi imkoniyat!" 🚀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=orange" alt="Profile views"/>
+</p>
