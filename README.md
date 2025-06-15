@@ -3,7 +3,7 @@
   <img src="https://iili.io/dBau4ZN.gif" alt="banner" />
 </p>
 
-<h3 align="center">blog · <a href="https://linkedin.com/in/yourname">linkedin</a> · <a href="https://t.me/yourtelegram">telegram</a></h3>
+<h3 align="center">blog · <a href="https://www.linkedin.com/in/theaxmedovv/">linkedin</a> · <a href="https://t.me/theaxmedovv">telegram</a></h3>
 
 <!-- Tech stack table -->
 <table align="center">
@@ -44,7 +44,7 @@
 
 <!-- View counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=orange" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=theaxmedovv&color=orange" alt="Profile views"/>
 </p>
 
 <!-- Bottom banner -->
