@@ -51,11 +51,6 @@
 </table>
 
 <!-- GitHub Stats (optional) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theaxmedovv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theaxmedovv&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 <!-- View counter -->
 <p align="center">
