@@ -4,7 +4,7 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi there, I'm Ahmedov Muhammadjon </h1>
+<h1 align="center">Hi there, I'm Axmedov Muhammadjon </h1>
 <!-- Social links -->
 <h3 align="center">
   blog · 
